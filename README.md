@@ -7,3 +7,8 @@
 
 <h3 align='center'> 🏆우수발표논문상🏆 </h3>
 <br>
+<div align='center'>
+
+<a href="https://www.ksqm.org/bbs/?code=notice&mode=view&number=7141"> 2023년 추계 학술대회 우수발표논문상 수상자 공지</a>
+
+</div>
